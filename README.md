@@ -1,5 +1,7 @@
 # git-training
-Repository used during git mentoring
+Repository used during git mentoring.
+
+[Presentation link](https://docs.google.com/presentation/d/1NrKiJctywKEPwfwVgEgfffGow-rwWFC9s6FOGzDa7vA/edit?usp=sharing)
 
 ### Part I - First steps
 
