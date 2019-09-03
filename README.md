@@ -18,13 +18,13 @@ Repository used during git mentoring.
 	 - git commit
  - Changing files
    - .gitignore (gitignore.io)
-	 - git add .
-	 - git add *.java
-	 - git commit -am ""
-	 - git commit --amend
-	 - git diff
+   - git add .
+   - git add *.java
+   - git commit -am ""
+   - git commit --amend
+   - git diff
  - empty folders
  - branching
-	 - creating new branch
-	 - switch branch
-	 - shorthand checkout
+   - creating new branch
+   - switching branch
+   - shorthand checkout
