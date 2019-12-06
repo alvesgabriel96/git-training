@@ -28,3 +28,6 @@ Repository used during git mentoring.
    - creating new branch
    - switching branch
    - shorthand checkout
+   
+   Test mod
+   
